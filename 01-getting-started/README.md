@@ -21,8 +21,7 @@
 
 Please consider take the below code-snippet as reference to understand the things.
 
-<code>
-
+```c
     // I/O library for displaying data and recieving user input
     #include <stdio.h> 
 
@@ -48,7 +47,7 @@ Please consider take the below code-snippet as reference to understand the thing
       // if program run successfully then it will return 0 as success message.
       return 0;
     }
-</code>
+ ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
